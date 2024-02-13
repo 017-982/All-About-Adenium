@@ -1,0 +1,38 @@
+body{
+background-color:yellowgreen;
+
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h1{
+color:darkred;}
+h2{
+color:darkred;}
+ul{
+color:darkred;}
+div{
+height:50px;
+width:500px;
+background-color:black;}
+.active{
+color:yellowgreen;}
+a:hover{
+color:darkred;}
+img{
+height:132px;
+width:150px;
+border-style:solid;
+border-color:darkred;
+float:left;
+border-radius:3px;
+margin:10px;}
+a{
+color:white;
+text-decoration:none;
+border-radius:5px;
+padding:5px;
+}
+// <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 300 to 700
